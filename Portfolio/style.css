@@ -1,0 +1,50 @@
+@import url('https://fonts.cdnfonts.com/css/hlad');
+#black {
+    background: rgb(0, 0, 0);
+  }
+  #white {
+    background: white;
+  }
+  body{
+    transition: background-color 1s;
+  }
+  nav{
+    position:absolute;
+    gap: 2px;
+    top: 2%;
+    left: 50%;
+    transform: translate(-10%, -10%);
+    display: flex;
+  }
+  nav>a{
+    text-align: center;
+    font-size: large;
+    width: 0.5cm;
+    height: 1cm;
+    background: transparent;
+    padding: 0.1cm 3cm;
+    border-radius: 20px;
+    cursor: pointer;
+}
+nav>a:hover{
+    transition: 1s;
+    background: rgb(141, 24, 24);
+    height: 1cm;
+    width: 1cm;
+}
+.name{
+  position: absolute;
+    color: rgb(109, 17, 17);
+    left: 38%;
+    top: 40vh;
+    font-size: 500%;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+.thought{
+  position: absolute;
+    color: rgb(109, 17, 17);
+    left: 55%;
+    top: 50vh;
+    font-size: 200%;
+    font-family: Copperplate, Papyrus, fantasy;
+}
