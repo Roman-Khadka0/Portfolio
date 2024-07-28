@@ -3,10 +3,10 @@
     background: rgb(0, 0, 0);
   }
   #white {
-    background: white;
+    background: rgb(134, 133, 133);
   }
   body{
-    transition: background-color 1s;
+    transition: background-color 1s, color 1s;
   }
   nav{
     position:absolute;
@@ -28,13 +28,13 @@
 }
 nav>a:hover{
     transition: 1s;
-    background: rgb(141, 24, 24);
+    background: rgb(58, 4, 4);
     height: 1cm;
     width: 1cm;
 }
 .name{
   position: absolute;
-    color: rgb(109, 17, 17);
+    color: rgb(58, 4, 4);
     left: 38%;
     top: 40vh;
     font-size: 500%;
@@ -47,4 +47,18 @@ nav>a:hover{
     top: 50vh;
     font-size: 200%;
     font-family: Copperplate, Papyrus, fantasy;
+}
+.picture{
+  position: absolute;
+    left: 10%;
+    top: 120vh;
+    font-size: 300%;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+.introduction{
+  position: absolute;
+    color: rgb(109, 17, 17);
+    left: 55%;
+    top: 130vh;
+    font-size: 200%;
 }
