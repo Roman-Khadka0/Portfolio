@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 21 07:43:22 GMT+05:45 2025
+flatbuffers-java-1.12.0-sources.jar>central=
+flatbuffers-java-1.12.0.jar>central=
+flatbuffers-java-1.12.0.pom>central=

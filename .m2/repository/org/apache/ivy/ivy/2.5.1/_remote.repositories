@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 21 07:37:48 GMT+05:45 2025
+ivy-2.5.1-sources.jar>central=
+ivy-2.5.1.jar>central=
+ivy-2.5.1.pom>central=

@@ -1,0 +1,4 @@
+2024/11/12-19:41:33.203 5640 Reusing MANIFEST C:\Users\Roman khadka\.TurboVPN\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2024/11/12-19:41:33.207 5640 Recovering log #67
+2024/11/12-19:41:33.209 5640 (ignoring error) C:\Users\Roman khadka\.TurboVPN\EBWebView\Default\Local Storage\leveldb/000067.log: dropping 109 bytes; Corruption: missing start of fragmented record(2)
+2024/11/12-19:41:33.210 5640 Reusing old log C:\Users\Roman khadka\.TurboVPN\EBWebView\Default\Local Storage\leveldb/000067.log 

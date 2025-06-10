@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 21 07:43:31 GMT+05:45 2025
+hadoop-common-3.3.6-sources.jar>central=
+hadoop-common-3.3.6.jar>central=
+hadoop-common-3.3.6.pom>central=

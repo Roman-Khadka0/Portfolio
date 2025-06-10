@@ -1,0 +1,30 @@
+2024/11/12-19:41:33.963 5b70 Reusing MANIFEST C:\Users\Roman khadka\.TurboVPN\EBWebView\Default\IndexedDB\https_turbovpn.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/12-19:41:33.964 5b70 Recovering log #79
+2024/11/12-19:41:33.965 5b70 Reusing old log C:\Users\Roman khadka\.TurboVPN\EBWebView\Default\IndexedDB\https_turbovpn.com_0.indexeddb.leveldb/000079.log 
+2024/11/12-19:41:33.965 5b70 Delete type=2 #76
+2024/11/12-19:41:33.971 2304 Level-0 table #84: started
+2024/11/12-19:41:33.972 2304 Level-0 table #84: 678 bytes OK
+2024/11/12-19:41:33.973 2304 Delete type=0 #79
+2024/11/12-19:41:33.974 5608 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at '\x00#\x00\x00\x05' @ 1442 : 1
+2024/11/12-19:41:33.974 5608 Compacting 1@0 + 1@1 files
+2024/11/12-19:41:33.975 5608 Generated table #85@0: 99 keys, 2598 bytes
+2024/11/12-19:41:33.975 5608 Compacted 1@0 + 1@1 files => 2598 bytes
+2024/11/12-19:41:33.976 5608 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/12-19:41:33.976 5608 Delete type=2 #84
+2024/11/12-19:41:33.976 5608 Manual compaction at level-0 from '\x00#\x00\x00\x05' @ 1442 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/12-19:41:35.422 2304 Level-0 table #87: started
+2024/11/12-19:41:35.424 2304 Level-0 table #87: 4071 bytes OK
+2024/11/12-19:41:35.425 2304 Delete type=2 #81
+2024/11/12-19:41:35.425 2304 Delete type=0 #83
+2024/11/12-19:41:35.425 5608 Level-0 table #89: started
+2024/11/12-19:41:35.426 5608 Level-0 table #89: 475 bytes OK
+2024/11/12-19:41:35.428 5608 Delete type=0 #86
+2024/11/12-19:41:35.428 5608 Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at '\x00%\x00\x00\x05' @ 1563 : 0
+2024/11/12-19:41:35.428 5608 Compacting 2@0 + 1@1 files
+2024/11/12-19:41:35.429 5608 Generated table #90@0: 101 keys, 2665 bytes
+2024/11/12-19:41:35.429 5608 Compacted 2@0 + 1@1 files => 2665 bytes
+2024/11/12-19:41:35.429 5608 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/12-19:41:35.430 5608 Delete type=2 #87
+2024/11/12-19:41:35.430 5608 Delete type=2 #89
+2024/11/12-19:41:35.430 5608 Manual compaction at level-0 from '\x00%\x00\x00\x05' @ 1563 : 0 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/12-19:41:35.430 5608 Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
